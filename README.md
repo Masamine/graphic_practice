@@ -1,3 +1,3 @@
 # graphic_practice
 
-修正しました
+修正しました!!!
